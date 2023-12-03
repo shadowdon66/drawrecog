@@ -1,0 +1,28 @@
+body { 
+    background-color: darkgoldenrod;
+}
+
+#timer {
+    float: right;
+    font-size: 40px;
+    margin-right: 50px;
+}
+#score {
+    float: left;
+    font-size: 40px;
+    margin-left: 35px;
+}
+#sketchToBe {
+    color: darkred;
+    font-size:25px;
+    font-weight: bolder;
+}
+h1 {
+    color: white;
+}
+#yourSketch {
+    color: white;
+}
+#confidence {
+    color:white;
+}
